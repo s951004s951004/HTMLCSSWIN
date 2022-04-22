@@ -1,0 +1,9 @@
+h1{
+    color:red;
+    font-size: 14px;
+}
+
+h1:hover{
+    color:aqua;
+    font-size: 28px;
+}
