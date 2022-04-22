@@ -7,3 +7,14 @@ h1:hover{
     color:aqua;
     font-size: 28px;
 }
+
+h2{
+    padding-top:20px;
+    color:aqua;
+    font-size: 14px;
+}
+
+h2:hover{
+    color:red;
+    font-size: 28px;
+}
